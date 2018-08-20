@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">কফি অর্ডার</string>
+    <string name="toppings">টপিং</string>
+    <string name="name">নাম</string>
+    <string name="whipped_cream">ফেটান ক্রিম</string>
+    <string name="chocolate">চকলেট</string>
+    <string name="order">আদেশ</string>
+    <string name="quantity">পরিমানঃ </string>
+    <string name="starting_quantity_value">১</string>
+    <string name="order_summary_thank_you">ধন্যবাদ!</string>
+    <string name="order_summary_name">নামঃ <xliff:g id="name" example="Tusar"></xliff:g></string>
+    <string name="order_summary_add_whipped_cream">ফোটান ক্রিম যোগ? <xliff:g id="add_whipped_cream" example="true"></xliff:g></string>
+    <string name="order_summary_add_chocolate">চকলেট যোগ? <xliff:g id="add_chocolate" example="false"></xliff:g></string>
+    <string name="order_summary_quantity">পরিমাণঃ <xliff:g id="quantity" example="1"></xliff:g></string>
+    <string name="order_summary_total">মোটঃ <xliff:g id="total" example="10$"></xliff:g></string>
+</resources>
